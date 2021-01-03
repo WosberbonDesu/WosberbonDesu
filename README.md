@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Berke Can Pınar
-:notes: :trollface::artist:	
+:notes: :trollface::artist::beer:
 
 - 🔭 I’m currently working on Deep Learning, Data Science and Flutter.
 - 🌱 I’m currently learning Data Science,Java,Flutter and Go

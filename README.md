@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Berke Can Pınar
 ### I want to improve myself in data science and machine learning my goal is to be in a good position in this field and to bring good values to the society by doing scientific researches.
-:notes: :trollface::artist::beer:
+:notes::artist::beer:
 ## Popular Questions:
 - 🔭 I’m currently working on Deep Learning, Data Science and Flutter.
 - 🌱 I’m currently learning Data Science,Java,Flutter and Go

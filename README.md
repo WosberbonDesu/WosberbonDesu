@@ -9,5 +9,7 @@
 - 📫 How to reach me: Twitter - @blue_or4n_ge 
 - 😄 Pronouns: He/His/Non
 - ⚡ Fun fact: Every Day i wear headphones and dance at night around three a.m.
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/WosberbonDesu/ama)
+
 
 

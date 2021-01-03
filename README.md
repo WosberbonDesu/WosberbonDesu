@@ -16,7 +16,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [![Berke's github stats](https://github-readme-stats.vercel.app/api?username=WosberbonDesu&theme=blue-green)](https://github.com/WosberbonDesu/github-readme-stats)
-[![Berke's github stats](https://github-readme-stats.vercel.app/api?username=WosberbonDesu&theme=blue-green)](https://github.com/WosberbonDesu/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&theme=blue-green)
+
 
 
 

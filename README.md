@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on Deep Learning, Data Science and Flutter.
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 - 🌱 I’m currently learning Data Science,Java,Flutter and Go
 - 👯 I’m looking to collaborate on AI Devs 
 - 🤔 I’m looking for help with DeepLearning.aı
@@ -15,6 +14,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+![Berke's github stats](https://github-readme-stats.vercel.app/api?WosberbonDesu=anuraghazra&show_icons=true&theme=radical)
 
 
 

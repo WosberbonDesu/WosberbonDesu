@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Berke Can Pınar
 ### I want to improve myself in data science and machine learning my goal is to be in a good position in this field and to bring good values to the society by doing scientific researches.
-:notes::artist::beer:
+
 ![Simon Stalenhag GIF-downsized_large](https://user-images.githubusercontent.com/69467096/104382435-2232fe80-553f-11eb-9c1e-d1add0db1c4c.gif)
 
 ## Popular Questions:
@@ -30,6 +30,6 @@
 
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/WosberbonDesu/)
 
-
+:notes::artist::beer:
 
 

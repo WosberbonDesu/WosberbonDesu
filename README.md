@@ -25,8 +25,9 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![Berke's github stats](https://github-readme-stats.vercel.app/api?username=WosberbonDesu&theme=blue-green)](https://github.com/WosberbonDesu/github-readme-stats)
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&theme=blue-green)
+[![Berke's github stats](https://github-readme-stats.vercel.app/api?username=WosberbonDesu&&show_icons=true&title_color=ffffff&icon_color=bd8326&text_color=ffffff&bg_color=151515)](https://github.com/WosberbonDesu/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&&show_icons=true&title_color=ffffff&icon_color=bd8326&text_color=ffffff&bg_color=151515)
+
 
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/WosberbonDesu/)
 

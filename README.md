@@ -4,7 +4,7 @@
 ![Simon Stalenhag GIF-downsized_large](https://user-images.githubusercontent.com/69467096/104382435-2232fe80-553f-11eb-9c1e-d1add0db1c4c.gif)
 
 ## Popular Questions:
-- 🔭 I’m currently working on Deep Learning, Data Science and Flutter.
+- 🔭 I’m currently working on Deep Learning Project.
 - 🌱 I’m currently learning Data Science,Java,Flutter and Go
 - 👯 I’m looking to collaborate on AI Devs 
 - 🤔 I’m looking for help with DeepLearning.aı

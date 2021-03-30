@@ -28,7 +28,7 @@
 
 [![Berke's github stats](https://github-readme-stats.vercel.app/api?username=WosberbonDesu&&show_icons=true&title_color=ffffff&icon_color=bd8326&text_color=ffffff&bg_color=151515)](https://github.com/WosberbonDesu/github-readme-stats)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&&show_icons=true&title_color=ffffff&icon_color=bd8326&text_color=ffffff&bg_color=151515)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&layout=compact)]
 
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/WosberbonDesu/)
 

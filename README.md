@@ -29,8 +29,8 @@
 [![Berke's github stats](https://github-readme-stats.vercel.app/api?username=WosberbonDesu&&show_icons=true&title_color=ffffff&icon_color=bd8326&text_color=ffffff&bg_color=151515)](https://github.com/WosberbonDesu/github-readme-stats)
 
 <p align="left">
-  <img align="center" " width="600" src="https://github-readme-stats.vercel.app/api?username=WosberbonDesu&show_icons=true&theme=dark" alt="nurcanozkann" />
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&layout=compact&hide=html&theme=dark" alt="nurcanozkann" />
+  <img align="center" " width="500" src="https://github-readme-stats.vercel.app/api?username=WosberbonDesu&show_icons=true&theme=dark" alt="nurcanozkann" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&layout=compact&hide=html&theme=dark" alt="nurcanozkann" />
 </p>
 
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/WosberbonDesu/)

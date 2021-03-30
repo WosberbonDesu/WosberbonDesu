@@ -30,7 +30,7 @@
 
 <p align="left">
   <img align="center" " width="500" src="https://github-readme-stats.vercel.app/api?username=WosberbonDesu&show_icons=true&theme=dark" alt="nurcanozkann" />
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&layout=compact&hide=html&theme=dark" alt="nurcanozkann" />
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&layout=compact&hide=html&theme=dark" alt="nurcanozkann" />
 </p>
 
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/WosberbonDesu/)

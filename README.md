@@ -31,6 +31,11 @@
 
 [![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/WosberbonDesu/)
 
+
+<img align="center" height="165" src="https://camo.githubusercontent.com/01834b6fa5a74fba3154867248a94736b4d7abea9fde49d4bb430b51118f7838/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e757263616e6f7a6b616e6e266c61796f75743d636f6d7061637426686964653d68746d6c267468656d653d6461726b" alt="nurcanozkann" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurcanozkann&amp;layout=compact&amp;hide=html&amp;theme=dark" style="max-width:100%;">
+
+
+
 :notes::artist::beer:
 
 

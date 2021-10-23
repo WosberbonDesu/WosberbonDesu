@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Berke Can Pınar
-### I want to improve myself in data science and machine learning my goal is to be in a good position in this field and to bring good values to the society by doing scientific researches.
+### I want to improve myself in mobile programming and machine learning my goal is to be in a good position in this field and to bring good values to the society by doing scientific researches.
 ![](https://komarev.com/ghpvc/?username=WosberbonDesu&label=PROFILE+VIEWS)
 
 ![a](https://user-images.githubusercontent.com/69467096/113064664-1f4fbd80-91c0-11eb-9a29-1a1437b3ea07.gif)

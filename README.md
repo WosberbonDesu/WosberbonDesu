@@ -36,4 +36,6 @@
 
 :notes::artist::beer:
 
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=ft06u9hfq0yijb6uicqqhx6nu&cover_image=true&theme=default&bar_color=52b54f)]]
+
 

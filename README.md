@@ -36,6 +36,6 @@
 
 :notes::artist::beer:
 
-[![Berke's spotify](https://spotify-github-profile.vercel.app/api/view?uid=ft06u9hfq0yijb6uicqqhx6nu&cover_image=true&theme=default&bar_color=52b54f)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ft06u9hfq0yijb6uicqqhx6nu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 

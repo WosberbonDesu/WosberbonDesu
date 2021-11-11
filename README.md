@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Berke Can Pınar
+# Hi there 👋, 
 ### I want to improve myself in mobile programming and machine learning my goal is to be in a good position in this field and to bring good values to the society by doing scientific researches.
 ![](https://komarev.com/ghpvc/?username=WosberbonDesu&label=PROFILE+VIEWS)
 

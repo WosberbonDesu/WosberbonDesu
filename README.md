@@ -1,9 +1,10 @@
 # Hi there 👋, 
 ### I want to improve myself in mobile programming and machine learning my goal is to be in a good position in this field and to bring good values to the society by doing scientific researches.
 ![](https://komarev.com/ghpvc/?username=WosberbonDesu&label=PROFILE+VIEWS)
-https://user-images.githubusercontent.com/69467096/143307731-0fe63c57-3ff5-4ed0-aea2-3c5d69bdae79.mp4
+
 
 ![a](https://user-images.githubusercontent.com/69467096/113064664-1f4fbd80-91c0-11eb-9a29-1a1437b3ea07.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/69467096/143308578-6fda9f2d-51d0-471e-896b-bc671d82d5f3.gif)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ft06u9hfq0yijb6uicqqhx6nu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/ft06u9hfq0yijb6uicqqhx6nu)
 
 ## Popular Questions:

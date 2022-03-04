@@ -7,9 +7,9 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ft06u9hfq0yijb6uicqqhx6nu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/ft06u9hfq0yijb6uicqqhx6nu)
 
 ## Popular Questions:
-- 🔭 I’m currently working on Deep Learning Project.
+- 🔭 I’m currently working on Flutter Project.
 - 🌱 I’m currently learning Data Science,Java,Flutter and Go
-- 👯 I’m looking to collaborate on AI Devs 
+- 👯 I’m looking to collaborate on AI Devs and Flutter Devs 
 - 🤔 I’m looking for help with DeepLearning.aı
 - 💬 Ask me about AI, Cyber Security and My favorite dishes
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/WosberbonDesu/ama)

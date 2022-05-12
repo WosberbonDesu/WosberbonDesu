@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with DeepLearning.aı
 - 💬 Ask me about AI, Cyber Security and My favorite dishes
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/WosberbonDesu/ama)
-- 📫 How to reach me: Twitter - [ @blue_or4n_ge](https://twitter.com/blue_or4n_ge) Discord - [Discord Link](https://discord.gg/zAHKchrrHC)  ArtStation - [ArtStation Link](https://www.artstation.com/skogsitite)
+- 📫 How to reach me:  Discord - [Discord Link](https://discord.gg/zAHKchrrHC)  ArtStation - [ArtStation Link](https://www.artstation.com/skogsitite)
 
 ## Languages and Tools :
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>

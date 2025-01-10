@@ -35,9 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
 </div>
-
 ## GitHub Stats:
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=WosberbonDesu&&show_icons=true&title_color=ffffff&icon_color=bd8326&text_color=ffffff&bg_color=151515" height="150" alt="stats graph" style="vertical-align: middle;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&layout=compact&hide=html&theme=dark" height="150" alt="WosberbonDesu" style="vertical-align: middle;" />
 </div>

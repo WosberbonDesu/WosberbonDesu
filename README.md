@@ -1,7 +1,6 @@
 # Hi there 👋, 
 ### I aspire to develop impactful projects that contribute meaningful and lasting value to society, aiming to create innovations that will be recognized and appreciated by future generations.
 ![](https://komarev.com/ghpvc/?username=WosberbonDesu&label=PROFILE+VIEWS)
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/69467096/143308578-6fda9f2d-51d0-471e-896b-bc671d82d5f3.gif)
 ## Popular Questions:
 - 🔭 I’m currently working on .NET, Node Js project.
 - 👯 I’m looking to collaborate on AI Devs and R&D Engineers 

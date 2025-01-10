@@ -18,10 +18,6 @@ innovations that will be recognized and appreciated by future generations.
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
 ## GitHub Stats:
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/WosberbonDesu/open-source-badges/)
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
 [![Berke's github stats](https://github-readme-stats.vercel.app/api?username=WosberbonDesu&&show_icons=true&title_color=ffffff&icon_color=bd8326&text_color=ffffff&bg_color=151515)](https://github.com/WosberbonDesu/github-readme-stats)
 
 <p align="left">

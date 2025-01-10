@@ -1,19 +1,14 @@
 # Hi there 👋, 
-### I want to improve myself in mobile programming and machine learning my goal is to be in a good position in this field and to bring good values to the society by doing scientific researches.
+### I aspire to develop impactful projects that contribute meaningful and lasting value to society, aiming to create
+innovations that will be recognized and appreciated by future generations.
 ![](https://komarev.com/ghpvc/?username=WosberbonDesu&label=PROFILE+VIEWS)
 
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/69467096/143308578-6fda9f2d-51d0-471e-896b-bc671d82d5f3.gif)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ft06u9hfq0yijb6uicqqhx6nu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/ft06u9hfq0yijb6uicqqhx6nu)
 
 ## Popular Questions:
-- 🔭 I’m currently working on Flutter Project.
-- 🌱 I’m currently learning Data Science,Java,Flutter and Go
-- 👯 I’m looking to collaborate on AI Devs and Flutter Devs 
-- 🤔 I’m looking for help with DeepLearning.aı
-- 💬 Ask me about AI, Cyber Security and My favorite dishes
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/WosberbonDesu/ama)
-- 📫 How to reach me:  Discord - [Discord Link](https://discord.gg/zAHKchrrHC)  ArtStation - [ArtStation Link](https://www.artstation.com/skogsitite)
+- 🔭 I’m currently working on .NET, Node Js project.
+- 👯 I’m looking to collaborate on AI Devs and R&D Engineers 
 
 ## Languages and Tools :
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -33,6 +28,3 @@
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&layout=compact&hide=html&theme=dark" alt="WosberbonDesu" />
 </p>
 
-[![ForTheBadge built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://GitHub.com/WosberbonDesu/)
-
-:notes::artist::beer:

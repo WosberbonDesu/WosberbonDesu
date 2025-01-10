@@ -1,9 +1,9 @@
-# Hi there 👋, 
+# Greetings and welcome! 
 ### I aspire to develop impactful projects that contribute meaningful and lasting value to society, aiming to create innovations that will be recognized and appreciated by future generations.
 ![](https://komarev.com/ghpvc/?username=WosberbonDesu&label=PROFILE+VIEWS)
 ## Popular Questions:
-- 🔭 I’m currently working on .NET, Node Js project.
-- 👯 I’m looking to collaborate on AI Devs and R&D Engineers 
+- I am currently engaged in a project involving .net and java technologies
+- I am seeking opportunities to collaborate with AI developers and R&D engineers. 
 ## Languages and Tools :
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>

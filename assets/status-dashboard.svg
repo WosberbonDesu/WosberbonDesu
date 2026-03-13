@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d0221"/>
+      <stop offset="50%" style="stop-color:#150050"/>
+      <stop offset="100%" style="stop-color:#0d0221"/>
+    </linearGradient>
+    <filter id="g2">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="g3">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="900" height="120" fill="url(#bg2)" rx="10"/>
+  
+  <!-- Top neon line -->
+  <line x1="30" y1="8" x2="870" y2="8" stroke="#00d4ff" stroke-width="1" opacity="0.4"/>
+  
+  <!-- Status Panels -->
+  <!-- Panel 1: AI -->
+  <g transform="translate(60, 20)">
+    <rect width="170" height="80" rx="8" fill="#0d0221" stroke="#00d4ff" stroke-width="1" opacity="0.8"/>
+    <rect width="170" height="80" rx="8" fill="#00d4ff" opacity="0.03"/>
+    <text x="85" y="25" font-family="'Courier New', monospace" font-size="9" fill="#6e7681" text-anchor="middle" letter-spacing="3">MODULE</text>
+    <text x="85" y="50" font-family="'Courier New', monospace" font-size="16" fill="#00d4ff" text-anchor="middle" font-weight="bold" filter="url(#g2)">AI / ML</text>
+    <circle cx="30" cy="65" r="3" fill="#00ffc8" filter="url(#g2)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="42" y="69" font-family="'Courier New', monospace" font-size="9" fill="#00ffc8">ACTIVE</text>
+  </g>
+  
+  <!-- Panel 2: Full-Stack -->
+  <g transform="translate(260, 20)">
+    <rect width="170" height="80" rx="8" fill="#0d0221" stroke="#a78bfa" stroke-width="1" opacity="0.8"/>
+    <rect width="170" height="80" rx="8" fill="#a78bfa" opacity="0.03"/>
+    <text x="85" y="25" font-family="'Courier New', monospace" font-size="9" fill="#6e7681" text-anchor="middle" letter-spacing="3">MODULE</text>
+    <text x="85" y="50" font-family="'Courier New', monospace" font-size="16" fill="#a78bfa" text-anchor="middle" font-weight="bold" filter="url(#g2)">FULL-STACK</text>
+    <circle cx="30" cy="65" r="3" fill="#00ffc8" filter="url(#g2)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="42" y="69" font-family="'Courier New', monospace" font-size="9" fill="#00ffc8">ACTIVE</text>
+  </g>
+  
+  <!-- Panel 3: Cloud -->
+  <g transform="translate(460, 20)">
+    <rect width="170" height="80" rx="8" fill="#0d0221" stroke="#00ffc8" stroke-width="1" opacity="0.8"/>
+    <rect width="170" height="80" rx="8" fill="#00ffc8" opacity="0.03"/>
+    <text x="85" y="25" font-family="'Courier New', monospace" font-size="9" fill="#6e7681" text-anchor="middle" letter-spacing="3">MODULE</text>
+    <text x="85" y="50" font-family="'Courier New', monospace" font-size="16" fill="#00ffc8" text-anchor="middle" font-weight="bold" filter="url(#g2)">CLOUD OPS</text>
+    <circle cx="30" cy="65" r="3" fill="#00ffc8" filter="url(#g2)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="42" y="69" font-family="'Courier New', monospace" font-size="9" fill="#00ffc8">ACTIVE</text>
+  </g>
+  
+  <!-- Panel 4: Architecture -->
+  <g transform="translate(660, 20)">
+    <rect width="170" height="80" rx="8" fill="#0d0221" stroke="#ff6b9d" stroke-width="1" opacity="0.8"/>
+    <rect width="170" height="80" rx="8" fill="#ff6b9d" opacity="0.03"/>
+    <text x="85" y="25" font-family="'Courier New', monospace" font-size="9" fill="#6e7681" text-anchor="middle" letter-spacing="3">MODULE</text>
+    <text x="85" y="50" font-family="'Courier New', monospace" font-size="16" fill="#ff6b9d" text-anchor="middle" font-weight="bold" filter="url(#g2)">ARCHITECT</text>
+    <circle cx="30" cy="65" r="3" fill="#00ffc8" filter="url(#g2)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="42" y="69" font-family="'Courier New', monospace" font-size="9" fill="#00ffc8">ACTIVE</text>
+  </g>
+  
+  <!-- Bottom neon line -->
+  <line x1="30" y1="112" x2="870" y2="112" stroke="#a78bfa" stroke-width="1" opacity="0.4"/>
+</svg>

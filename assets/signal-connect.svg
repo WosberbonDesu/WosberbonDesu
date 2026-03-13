@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d0221"/>
+      <stop offset="50%" style="stop-color:#150050"/>
+      <stop offset="100%" style="stop-color:#0d0221"/>
+    </linearGradient>
+    <filter id="gx">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="900" height="100" fill="url(#bg4)" rx="10"/>
+  
+  <!-- Signal waves from center -->
+  <g transform="translate(450, 50)">
+    <circle r="15" fill="none" stroke="#00d4ff" stroke-width="1.5" filter="url(#gx)">
+      <animate attributeName="r" values="15;60;15" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="15" fill="none" stroke="#a78bfa" stroke-width="1">
+      <animate attributeName="r" values="15;80;15" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="15" fill="none" stroke="#00ffc8" stroke-width="0.8">
+      <animate attributeName="r" values="15;100;15" dur="3s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0;0.4" dur="3s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Center icon -->
+    <circle r="12" fill="#0d0221" stroke="#00d4ff" stroke-width="2" filter="url(#gx)"/>
+    <text x="0" y="5" font-family="'Courier New', monospace" font-size="12" fill="#00d4ff" text-anchor="middle" font-weight="bold">📡</text>
+  </g>
+  
+  <!-- Left text -->
+  <text x="120" y="45" font-family="'Courier New', monospace" font-size="10" fill="#6e7681" letter-spacing="3">TRANSMITTING</text>
+  <text x="120" y="65" font-family="'Courier New', monospace" font-size="14" fill="#00d4ff" filter="url(#gx)">OPEN TO CONNECT</text>
+  
+  <!-- Right text -->
+  <text x="610" y="45" font-family="'Courier New', monospace" font-size="10" fill="#6e7681" letter-spacing="3">FREQUENCY</text>
+  <text x="610" y="65" font-family="'Courier New', monospace" font-size="14" fill="#a78bfa" filter="url(#gx)">LET'S BUILD TOGETHER</text>
+  
+  <!-- Decorative dots -->
+  <circle cx="50" cy="50" r="2" fill="#00d4ff" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="50" r="2" fill="#a78bfa" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

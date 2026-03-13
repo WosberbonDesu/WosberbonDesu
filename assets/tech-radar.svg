@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0221"/>
+      <stop offset="100%" style="stop-color:#150050"/>
+    </linearGradient>
+    <filter id="gw">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="gw2">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="900" height="250" fill="url(#bg3)" rx="12"/>
+  
+  <!-- Grid lines (subtle) -->
+  <g opacity="0.07" stroke="#00d4ff" stroke-width="0.5">
+    <line x1="0" y1="50" x2="900" y2="50"/>
+    <line x1="0" y1="100" x2="900" y2="100"/>
+    <line x1="0" y1="150" x2="900" y2="150"/>
+    <line x1="0" y1="200" x2="900" y2="200"/>
+    <line x1="150" y1="0" x2="150" y2="250"/>
+    <line x1="300" y1="0" x2="300" y2="250"/>
+    <line x1="450" y1="0" x2="450" y2="250"/>
+    <line x1="600" y1="0" x2="600" y2="250"/>
+    <line x1="750" y1="0" x2="750" y2="250"/>
+  </g>
+
+  <!-- Radar circles -->
+  <g transform="translate(160, 125)" opacity="0.8">
+    <circle r="90" fill="none" stroke="#00d4ff" stroke-width="0.5" opacity="0.2"/>
+    <circle r="60" fill="none" stroke="#00d4ff" stroke-width="0.5" opacity="0.3"/>
+    <circle r="30" fill="none" stroke="#00d4ff" stroke-width="0.5" opacity="0.4"/>
+    <line x1="-90" y1="0" x2="90" y2="0" stroke="#00d4ff" stroke-width="0.3" opacity="0.2"/>
+    <line x1="0" y1="-90" x2="0" y2="90" stroke="#00d4ff" stroke-width="0.3" opacity="0.2"/>
+    
+    <!-- Radar sweep -->
+    <line x1="0" y1="0" x2="0" y2="-85" stroke="#00ffc8" stroke-width="1.5" filter="url(#gw2)" opacity="0.7">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+    </line>
+    
+    <!-- Skill dots on radar -->
+    <circle cx="25" cy="-20" r="4" fill="#00d4ff" filter="url(#gw2)"/>
+    <circle cx="-15" cy="35" r="3.5" fill="#a78bfa" filter="url(#gw2)"/>
+    <circle cx="40" cy="15" r="3" fill="#00ffc8" filter="url(#gw2)"/>
+    <circle cx="-35" cy="-25" r="4" fill="#ff6b9d" filter="url(#gw2)"/>
+    <circle cx="10" cy="55" r="3" fill="#00d4ff" filter="url(#gw2)"/>
+    <circle cx="-50" cy="10" r="3.5" fill="#a78bfa" filter="url(#gw2)"/>
+    <circle cx="55" cy="-40" r="3" fill="#00ffc8" filter="url(#gw2)"/>
+  </g>
+  
+  <!-- Right side - Skill bars -->
+  <g transform="translate(320, 30)">
+    <text x="0" y="15" font-family="'Courier New', monospace" font-size="10" fill="#6e7681" letter-spacing="4">SKILL PROFICIENCY MATRIX</text>
+    
+    <!-- AI/ML -->
+    <text x="0" y="50" font-family="'Courier New', monospace" font-size="12" fill="#00d4ff">AI / ML</text>
+    <rect x="130" y="38" width="400" height="16" rx="3" fill="#0d0221" stroke="#1a0a3e" stroke-width="1"/>
+    <rect x="131" y="39" width="370" height="14" rx="2" fill="#00d4ff" opacity="0.2"/>
+    <rect x="131" y="39" width="370" height="14" rx="2" fill="#00d4ff" opacity="0.15" filter="url(#gw)"/>
+    <text x="540" y="51" font-family="'Courier New', monospace" font-size="10" fill="#00d4ff">92%</text>
+    
+    <!-- Full-Stack -->
+    <text x="0" y="80" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">FULL-STACK</text>
+    <rect x="130" y="68" width="400" height="16" rx="3" fill="#0d0221" stroke="#1a0a3e" stroke-width="1"/>
+    <rect x="131" y="69" width="380" height="14" rx="2" fill="#a78bfa" opacity="0.2"/>
+    <rect x="131" y="69" width="380" height="14" rx="2" fill="#a78bfa" opacity="0.15" filter="url(#gw)"/>
+    <text x="540" y="81" font-family="'Courier New', monospace" font-size="10" fill="#a78bfa">95%</text>
+    
+    <!-- Cloud -->
+    <text x="0" y="110" font-family="'Courier New', monospace" font-size="12" fill="#00ffc8">CLOUD</text>
+    <rect x="130" y="98" width="400" height="16" rx="3" fill="#0d0221" stroke="#1a0a3e" stroke-width="1"/>
+    <rect x="131" y="99" width="350" height="14" rx="2" fill="#00ffc8" opacity="0.2"/>
+    <rect x="131" y="99" width="350" height="14" rx="2" fill="#00ffc8" opacity="0.15" filter="url(#gw)"/>
+    <text x="540" y="111" font-family="'Courier New', monospace" font-size="10" fill="#00ffc8">88%</text>
+    
+    <!-- Architecture -->
+    <text x="0" y="140" font-family="'Courier New', monospace" font-size="12" fill="#ff6b9d">ARCHITECTURE</text>
+    <rect x="130" y="128" width="400" height="16" rx="3" fill="#0d0221" stroke="#1a0a3e" stroke-width="1"/>
+    <rect x="131" y="129" width="360" height="14" rx="2" fill="#ff6b9d" opacity="0.2"/>
+    <rect x="131" y="129" width="360" height="14" rx="2" fill="#ff6b9d" opacity="0.15" filter="url(#gw)"/>
+    <text x="540" y="141" font-family="'Courier New', monospace" font-size="10" fill="#ff6b9d">90%</text>
+    
+    <!-- DevOps -->
+    <text x="0" y="170" font-family="'Courier New', monospace" font-size="12" fill="#FFD21E">DEVOPS</text>
+    <rect x="130" y="158" width="400" height="16" rx="3" fill="#0d0221" stroke="#1a0a3e" stroke-width="1"/>
+    <rect x="131" y="159" width="340" height="14" rx="2" fill="#FFD21E" opacity="0.2"/>
+    <rect x="131" y="159" width="340" height="14" rx="2" fill="#FFD21E" opacity="0.15" filter="url(#gw)"/>
+    <text x="540" y="171" font-family="'Courier New', monospace" font-size="10" fill="#FFD21E">85%</text>
+  </g>
+  
+  <!-- Bottom scan line -->
+  <rect x="0" y="0" width="4" height="250" fill="#00d4ff" opacity="0.15" rx="2">
+    <animate attributeName="x" values="0;900;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

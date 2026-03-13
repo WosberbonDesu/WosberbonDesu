@@ -1,220 +1,148 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:0a1628,50:150050,75:1a0a3e,100:00d4ff&height=250&section=header&text=Berkecan%20Pinar&fontSize=58&fontColor=00d4ff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Solutions%20Architect%20%E2%80%A2%20Cloud%20Native%20Builder&descSize=16&descAlignY=52&descColor=a78bfa)
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%E2%9A%A1+Engineering+AI-powered+products+at+scale;%F0%9F%8C%90+Building+cloud-native+distributed+systems;%F0%9F%94%AE+Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=WosberbonDesu&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0d0221" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/WosberbonDesu?tab=followers">
-  <img src="https://img.shields.io/github/followers/WosberbonDesu?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d0221" alt="Followers" />
-</a>
-&nbsp;
-<a href="https://github.com/WosberbonDesu?tab=repositories">
-  <img src="https://img.shields.io/github/stars/WosberbonDesu?label=Total%20Stars&style=for-the-badge&color=00ffc8&labelColor=0d0221" alt="Stars" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```js
-const berkecan = {
-  location: "Turkey 🇹🇷",
-  role: "Full-Stack Engineer & AI Architect",
-  focus: [
-    "AI-Powered Applications",
-    "Cloud-Native Architecture",
-    "Scalable Distributed Systems"
-  ],
-  education: "Computer Science",
-  passion: "Building products that make a difference",
-  motto: "Engineer experiences, not just code."
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 What I Bring to the Table
-
-- 🧠 **AI & ML** — End-to-end ML pipelines, LLM integrations, RAG systems
-- ⚡ **Full-Stack** — React/Next.js frontends + robust backend APIs
-- ☁️ **Cloud** — AWS-certified, containerized microservices
-- 🏗️ **Architecture** — System design for scale & resilience
-- 🚀 **Product-Minded** — I think beyond code to user impact
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
-
-<div align="center">
-
-### 🧠 AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=00d4ff" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-0d0221?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-0d0221?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenAI-0d0221?style=for-the-badge&logo=openai&logoColor=a78bfa" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-0d0221?style=for-the-badge&logo=langchain&logoColor=00ffc8" alt="LangChain" />
-  <img src="https://img.shields.io/badge/HuggingFace-0d0221?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="HuggingFace" />
-</p>
-
-### ⚡ Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0d0221?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-0d0221?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0d0221?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS" />
-</p>
-
-### 🔧 Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0d0221?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-0d0221?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-  <img src="https://img.shields.io/badge/.NET-0d0221?style=for-the-badge&logo=dotnet&logoColor=a78bfa" alt=".NET" />
-  <img src="https://img.shields.io/badge/Java-0d0221?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
-  <img src="https://img.shields.io/badge/Ruby-0d0221?style=for-the-badge&logo=ruby&logoColor=CC342D" alt="Ruby" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-0d0221?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-0d0221?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-0d0221?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-0d0221?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0d0221?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0d0221?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-0d0221?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
-  <img src="https://img.shields.io/badge/Pinecone-0d0221?style=for-the-badge&logo=pinecone&logoColor=00ffc8" alt="Pinecone" />
-</p>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🏗️ &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/WosberbonDesu">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WosberbonDesu&repo=REPO_NAME_1&theme=transparent&hide_border=true&bg_color=0d0221&title_color=00d4ff&icon_color=a78bfa&text_color=8b949e&border_color=1a0a3e" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/WosberbonDesu">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=WosberbonDesu&repo=REPO_NAME_2&theme=transparent&hide_border=true&bg_color=0d0221&title_color=00d4ff&icon_color=a78bfa&text_color=8b949e&border_color=1a0a3e" />
-</a>
-
-</div>
-
-> 💡 **Note:** Replace `REPO_NAME_1` and `REPO_NAME_2` with your actual repository names to showcase your best work.
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WosberbonDesu&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&ring_color=00d4ff&rank_icon=percentile" alt="GitHub Stats" />
-&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=WosberbonDesu&hide_border=true&background=0d0221&stroke=1a0a3e&ring=00d4ff&fire=00ffc8&currStreakLabel=a78bfa&sideLabels=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WosberbonDesu&layout=compact&hide_border=true&bg_color=0d0221&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-## 📈 &nbsp;Contribution Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WosberbonDesu&bg_color=0d0221&color=00d4ff&line=a78bfa&point=00ffc8&area=true&area_color=150050&hide_border=true&custom_title=Contribution%20Timeline)](https://github.com/WosberbonDesu)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🤝 &nbsp;Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email" />
-</a>
-&nbsp;
-<a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-0d0221?style=for-the-badge&logo=googlechrome&logoColor=00ffc8" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://github.com/WosberbonDesu">
-  <img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-⚡ "The best way to predict the future is to engineer it." ⚡
-```
-
-<br/>
-
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=churchill&font=JetBrains+Mono&quoteCategory=programming" alt="Quote" />
-
-</div>
-
-<br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,25:a78bfa,50:150050,75:0a1628,100:0d0221&height=120&section=footer)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0221"/>
+      <stop offset="50%" style="stop-color:#150050"/>
+      <stop offset="100%" style="stop-color:#0d0221"/>
+    </linearGradient>
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#00d4ff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="rocketBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#00d4ff"/>
+    </linearGradient>
+    <linearGradient id="flame" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ffc8"/>
+      <stop offset="40%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowStrong">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="star" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bgGrad)" rx="12"/>
+  
+  <!-- Stars -->
+  <circle cx="50" cy="30" r="1.5" fill="white" opacity="0.8">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="80" r="1" fill="white" opacity="0.6">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="25" r="1.2" fill="white" opacity="0.7">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="380" cy="55" r="1" fill="white" opacity="0.5">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="35" r="1.3" fill="white" opacity="0.9">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="650" cy="70" r="1" fill="white" opacity="0.6">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="780" cy="20" r="1.5" fill="white" opacity="0.8">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="90" r="1" fill="white" opacity="0.5">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="150" r="1.2" fill="white" opacity="0.7">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="140" r="1" fill="white" opacity="0.6">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="160" r="1.3" fill="white" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="310" cy="130" r="0.8" fill="white" opacity="0.5">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="590" cy="110" r="1.1" fill="white" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="160" r="0.9" fill="white" opacity="0.7">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Rocket -->
+  <g transform="translate(100, 40)" filter="url(#glow)">
+    <!-- Flame trail -->
+    <path d="M30,120 Q25,140 20,165 Q30,155 40,165 Q35,140 30,120" fill="url(#flame)" opacity="0.9">
+      <animate attributeName="d" values="M30,120 Q25,140 20,165 Q30,155 40,165 Q35,140 30,120;M30,120 Q22,145 18,170 Q30,158 42,170 Q38,145 30,120;M30,120 Q25,140 20,165 Q30,155 40,165 Q35,140 30,120" dur="0.5s" repeatCount="indefinite"/>
+    </path>
+    <!-- Rocket body -->
+    <path d="M30,20 L20,50 L15,90 L20,120 L40,120 L45,90 L40,50 Z" fill="url(#rocketBody)" stroke="#00d4ff" stroke-width="0.5"/>
+    <!-- Nose cone -->
+    <path d="M30,5 L20,50 L40,50 Z" fill="#a78bfa" stroke="#00d4ff" stroke-width="0.5"/>
+    <!-- Window -->
+    <circle cx="30" cy="60" r="7" fill="#0d0221" stroke="#00ffc8" stroke-width="1.5"/>
+    <circle cx="30" cy="60" r="4" fill="#00d4ff" opacity="0.3"/>
+    <!-- Fins -->
+    <path d="M15,90 L5,115 L15,115 Z" fill="#a78bfa" stroke="#00d4ff" stroke-width="0.5"/>
+    <path d="M45,90 L55,115 L45,115 Z" fill="#a78bfa" stroke="#00d4ff" stroke-width="0.5"/>
+    <!-- Particles -->
+    <circle cx="25" cy="145" r="2" fill="#00ffc8" opacity="0.6">
+      <animate attributeName="cy" values="145;180;145" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="35" cy="150" r="1.5" fill="#00d4ff" opacity="0.5">
+      <animate attributeName="cy" values="150;185;150" dur="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="30" cy="155" r="1" fill="#a78bfa" opacity="0.4">
+      <animate attributeName="cy" values="155;190;155" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Text -->
+  <text x="200" y="75" font-family="'Courier New', monospace" font-size="14" fill="#6e7681" letter-spacing="6">SYSTEM STATUS</text>
+  <text x="200" y="110" font-family="'Courier New', monospace" font-size="28" fill="#00d4ff" font-weight="bold" filter="url(#glow)" letter-spacing="2">MISSION: BUILD THE FUTURE</text>
+  <text x="200" y="145" font-family="'Courier New', monospace" font-size="13" fill="#a78bfa" letter-spacing="3">FULL-STACK • AI • CLOUD • ARCHITECTURE</text>
+  
+  <!-- Status indicators -->
+  <circle cx="200" cy="170" r="4" fill="#00ffc8" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="212" y="174" font-family="'Courier New', monospace" font-size="11" fill="#00ffc8">ALL SYSTEMS OPERATIONAL</text>
+
+  <!-- Right side decoration - orbital rings -->
+  <g transform="translate(790, 100)">
+    <ellipse cx="0" cy="0" rx="50" ry="15" fill="none" stroke="#00d4ff" stroke-width="0.5" opacity="0.3" transform="rotate(-20)"/>
+    <ellipse cx="0" cy="0" rx="65" ry="20" fill="none" stroke="#a78bfa" stroke-width="0.5" opacity="0.2" transform="rotate(10)"/>
+    <circle cx="0" cy="0" r="8" fill="#150050" stroke="#00d4ff" stroke-width="1" filter="url(#glow)"/>
+    <circle cx="0" cy="0" r="3" fill="#00d4ff" opacity="0.5"/>
+    <!-- Orbiting dot -->
+    <circle r="3" fill="#00ffc8" filter="url(#glow)">
+      <animateMotion dur="4s" repeatCount="indefinite">
+        <mpath href="#orbit1"/>
+      </animateMotion>
+    </circle>
+  </g>
+  <path id="orbit1" d="M740,100 A50,15 -20 1,1 740.01,100" fill="none" stroke="none"/>
+  
+  <!-- Neon line bottom -->
+  <rect x="0" y="196" width="900" height="4" fill="url(#neonCyan)" opacity="0.6"/>
+</svg>
